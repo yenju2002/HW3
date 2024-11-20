@@ -47,7 +47,7 @@ Q:Extract Radiomics features using tools like pyradiomics and use the features t
     
     |       |- 評估性能 (MSE, R²)
     
-    |       |- 可視化結果 (實際值 vs 預測值, 殘差分佈)
+    |       |- 可視化結果 (實際值 vs 預測值, 誤差分佈)
     
     v
 
@@ -67,7 +67,7 @@ Q:Extract Radiomics features using tools like pyradiomics and use the features t
     
     |       |- 評估性能 (MSE, R²)
     
-    |       |- 可視化結果 (實際值 vs 預測值, 殘差分佈)
+    |       |- 可視化結果 (實際值 vs 預測值, 誤差分佈)
     
     v
 
